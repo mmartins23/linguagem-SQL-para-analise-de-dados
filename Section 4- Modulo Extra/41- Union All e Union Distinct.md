@@ -1,5 +1,8 @@
 # Union All e Union Distinct
 
+![Union Join](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4842-6186-6_9/MediaObjects/491470_1_En_9_Fig2_HTML.jpg)
+
+
 Em SQL, `UNION` e `UNION ALL` são usados para combinar os resultados de duas ou mais consultas SQL. Embora ambos os comandos sejam semelhantes, há uma diferença crucial entre eles:
 
 - `UNION` elimina duplicatas nos resultados combinados.
