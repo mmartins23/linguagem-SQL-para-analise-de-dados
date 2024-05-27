@@ -2,7 +2,7 @@
 
 ![Left Join](https://www.w3schools.com/sql/img_left_join.png)
 
-O `LEFT JOIN` em SQL é utilizado para retornar todos os registros da tabela à esquerda (`left table`), e os registros correspondentes da tabehttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Fsql%2Fsql_join_left.asp&psig=AOvVaw2aiVls8yWDTSgkhGthzyLQ&ust=1716648520757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCXnZzEpoYDFQAAAAAdAAAAABAKla à direita (`right table`). Se não houver correspondência, os resultados da tabela à direita serão NULL.
+O `LEFT JOIN` em SQL é utilizado para retornar todos os registros da tabela à esquerda (`left table`), e os registros correspondentes da tabela à direita (`right table`). Se não houver correspondência, os resultados da tabela à direita serão NULL.
 
 Aqui está a estrutura básica do `LEFT JOIN`:
 
